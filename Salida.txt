@@ -1,0 +1,6 @@
+ Numero -> 9
+ 
+   0 = Impar
+   1 = Par
+   
+   0
